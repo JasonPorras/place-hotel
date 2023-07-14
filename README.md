@@ -5,6 +5,6 @@
 - Melanie Lopez
 - Victor Peña
 
-Web site: https://defars.github.io/places/
+Web site: https://jasonporras.github.io/place-hotel/
 
-Trello: https://trello.com/invite/b/Y5NSCrxF/ATTIccd421b99965cbd4fa8e75bfb8bb46f79963AEC3/hotel
+Figma: https://www.figma.com/file/9Q8NHmcyXjnGJfBmtCdAnI/hotel-check?type=design&mode=design&t=LGBRpqss8MB9U9n1-1
